@@ -1,0 +1,12 @@
+Linked List UC Problems.
+
+UC1 - Create a simple linked list
+UC2 - Create linked list by adding
+UC3 - Create linked list by appending
+UC4 - Insert elemennt in between 
+UC5 - Delet First
+UC6 - Delete last
+UC7 - Search element
+UC8 - Search Element then add another element
+UC9 - Search added elemnt and delete
+UC10 - sorting
